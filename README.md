@@ -1,6 +1,6 @@
 # CUR Decomposition
 
-[![Build Status](https://travis-ci.com/blester125/cur.svg?branch=master)](https://travis-ci.com/blester125/cur)
+[![Build Status](https://travis-ci.com/blester125/CUR_Decomposition.svg?branch=master)](https://travis-ci.com/blester125/CUR_Decomposition)
 
 CUR Decomposition as described in [Mining of Massive Datasets](http://www.mmds.org/), page 406.
 
