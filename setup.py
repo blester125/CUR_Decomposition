@@ -18,7 +18,7 @@ class About(object):
     VERSION=get_version(NAME)
     AUTHOR='blester125'
     EMAIL=f'{AUTHOR}@gmail.com'
-    URL=f'https://github.com/{AUTHOR}/{NAME}'
+    URL='https://github.com/blester125/CUR_Decomposition'
     DL_URL=f'{URL}/archive/{VERSION}.tar.gz'
     LICENSE='MIT'
     DESCRIPTION='CUR Decomposition'
